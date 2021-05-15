@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant Bill Calculator", "Restaurant Bill Calculator\Restaurant Bill Calculator.csproj", "{3A0FE7BC-A049-43E7-9795-7314AC79F9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0FE7BC-A049-43E7-9795-7314AC79F9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0FE7BC-A049-43E7-9795-7314AC79F9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0FE7BC-A049-43E7-9795-7314AC79F9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0FE7BC-A049-43E7-9795-7314AC79F9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E20122-7D84-4981-8C58-A45D3606C42C}
+	EndGlobalSection
+EndGlobal
